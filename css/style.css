@@ -1,0 +1,169 @@
+.horizantal p,.block p{
+    color: aliceblue;
+}
+body{
+    background-color: rgb(227, 253, 253);
+    font-family: 'Times New Roman', Times, serif;
+    margin: 5%;
+}
+p.icon{
+    display: inline;
+}
+img.userim{
+    width: 30%;
+    
+}
+div.userim{
+    position: relative;
+    top :20%;
+    left: 30%;
+}
+img.icon{
+     width:7%;
+}
+.block{
+    z-index: 2;
+    border: none;
+    padding-top:1%;
+    background-color: #1a7d86;
+    position: fixed;
+    padding-top: 2%;
+    padding-left: .5%;
+    right:0px ;
+    top:0px;
+    width:20%;
+    height: 100%;
+    border-left: 5px solid #07373b;
+
+
+}
+.horizantal{
+    z-index: 2;
+    border: none;
+    overflow: hidden;
+    background-color: #1a7d86;
+    position: fixed;
+    top: 0px;
+    left: 0px;
+    width: 80%;
+    height: 15%;
+    min-height: 90px;
+    max-height: 200px;
+    
+}
+
+.img-sp{
+    width:7%;
+    position: relative;
+    left:2%;
+    top:8%;
+}
+
+#p1{
+    position: relative;
+    top: 5px;
+    left: 22px;
+}
+#p2{
+    position: relative;
+    top:24px;
+    left:-82px;
+}
+
+#p1, #p2{
+    font-size: 110%;
+}
+#in_block{
+   
+    margin-left: 4%;
+}
+#user{
+    font-size: 150%;
+    position: relative;
+    left: 26%;
+}
+ul{color: white; 
+}
+#li{
+    position: relative;
+    top:2%;
+}
+#contact{
+    position: absolute;
+    bottom:0%;
+    left: 40%;
+
+}
+a{
+    color: white;
+    text-decoration: none;
+}
+.block a:hover{
+    color: white;
+    font-size:130%;
+}
+div.p-sp{
+    display: inline;
+    position: relative;
+    
+    margin-left: 1%;
+}
+div.wel{
+    color: #000;
+    
+    margin: auto;
+    width: 50%;
+
+}
+p.wel{
+    text-align: center;
+    
+
+    color:#07373b;
+    font-size: 250%;
+    
+}
+.test1{
+    align-items: center;
+    padding-top:5%;
+    padding-left: 2%;
+    padding-right: 2%;
+    
+    
+    width: 80%;
+    height: 100%;
+    position: absolute;
+    top:15%;
+    left: 0%;
+    
+
+}
+
+.news{
+    font-family: 'Bebas Neue', cursive;
+    
+    color: aliceblue;
+    align-items:center;
+    width:318px;
+    margin: 1%;
+    border-radius: 10px;
+    padding: 1%;
+    background-color: rgb(7, 55, 59)
+    
+}
+.latest{
+     font-family: 'Bebas Neue', cursive;
+    font-size: 200%;
+    color: #FCD900;
+    text-align: center;
+    
+    width: 20%;
+    margin: auto;
+}
+
+div.newsImg{
+    height: 210px;
+}
+.h{
+    background-color: #18666d;
+}
